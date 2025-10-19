@@ -8,6 +8,13 @@ The SEB algorithm also has a runtime of O(n), which is represented by the Time C
 
 ![image](https://github.com/user-attachments/assets/b3f510cc-c22a-473a-9f10-d9f225e226df)
 
+# How to run the code
+Important:  Delete the existing "data.txt" file before generating a new one! 
+1. Run the python point generator that you desire. (change the n to get more points)
+3. Run the readme.md in Ubuntu with "make".
+4. Run the exe that was generated in the src directory with "./program".
+5. In order to visualize the data, run the display.py file.
+
 # Contribution Roles
 
 ## Conceptualization:
