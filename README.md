@@ -6,7 +6,7 @@ Here we compared the geometric approach, which uses perpendicular bisectors, in 
 
 The SEB algorithm also has a runtime of O(n), which is represented by the Time Complexity Analysis below.
 
-![image](https://github.com/user-attachments/assets/b3f510cc-c22a-473a-9f10-d9f225e226df)
+![image](img/seb_img.png)
 
 # How to run the code
 Important:  Delete the existing "data.txt" file before generating a new one! 
